@@ -1,5 +1,5 @@
 {
-  "name": "responsive-images",
+  "name": "create-scss-webpack",
   "version": "1.0.0",
   "description": "SCSS/webpack project generator with pre-configured settings.",
   "bin": ".bin/cli.js",
