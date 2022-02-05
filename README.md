@@ -16,11 +16,12 @@ This is a scss project generator with pre-configured webpack settings. This auto
 # Servering Locally
 
 <p>Webpack uses <a href="https://webpack.js.org/configuration/dev-server/">webpack-dev-server</a> to server serve the app locally. Run the following command on root ro server development mode.</P>
-    ```
-    npm run build
-    ```  
+
+```
+npm run start
+```
 
 # Production Build
-    ```
-    npm run build
-    ```
+```
+npm run build
+```
