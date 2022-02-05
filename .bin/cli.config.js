@@ -21,7 +21,7 @@ const COMMANDS = {
 }
 
 // Current environment
-const Environment = ENVIRONMENTS.Testing;
+const Environment = ENVIRONMENTS.Prod;
 
 module.exports = { ENVIRONMENTS, PLATFORMS, COMMANDS, Environment, GIT_URL };
 
